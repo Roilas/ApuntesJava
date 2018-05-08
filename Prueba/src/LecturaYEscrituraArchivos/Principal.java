@@ -15,6 +15,8 @@ public class Principal {
 		}
 		
 			System.out.println("Existe el fichero? " + Archivo.exists());
+			File Carpeta = new File("C:\\Users\\Biblioteca 313\\eclipse-workspace\\Borrame_ya");
+			
 		
 		
 	}
